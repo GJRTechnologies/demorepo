@@ -1,1 +1,2 @@
 This is file2 created directly in windows in demorepo git repository
+this file is first committed and now this file has been edited with vi command 
